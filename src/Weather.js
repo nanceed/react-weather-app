@@ -23,9 +23,9 @@ export default function Weather() {
                 <div className="col-6">
                   <div className="clearfix">
                     <img
-                            src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
-                            alt="Partly Cloudy"
-                            className="float-left" />
+                        src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
+                        alt="Partly Cloudy"
+                        className="float-left" />
                   <div className="float-left">
                     <span className="temperature">6</span>
                     <span className="unit">°C</span>
